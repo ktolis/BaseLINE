@@ -1,0 +1,8 @@
+akad
+requests
+rsa
+PyQRCode
+linepy
+httpx
+httplib2
+pycryptodome
